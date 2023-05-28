@@ -25,8 +25,8 @@ class Program
 
     static void Main(string[] args)
     {
-        Warrior maximus = new Warrior("Maximus", 1000, 120, 40);
-        Warrior bob = new Warrior("Bob", 1000, 120, 40);
+        Warrior maximus = new Warrior("Maverick", 1000, 120, 40); //Alteração realizara por phidalgo
+        Warrior bob = new Warrior("Iceman", 1000, 120, 40); //Alteração realizada por phidalgo
 
         Battle.StartFight(maximus, bob);
 
