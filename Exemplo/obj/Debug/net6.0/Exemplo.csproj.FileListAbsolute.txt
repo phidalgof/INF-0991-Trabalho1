@@ -1,0 +1,15 @@
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/obj/Debug/net6.0/Exemplo.csproj.AssemblyReference.cache
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/obj/Debug/net6.0/Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/obj/Debug/net6.0/Exemplo.AssemblyInfoInputs.cache
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/obj/Debug/net6.0/Exemplo.AssemblyInfo.cs
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/obj/Debug/net6.0/Exemplo.csproj.CoreCompileInputs.cache
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/bin/Debug/net6.0/Exemplo
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/bin/Debug/net6.0/Exemplo.deps.json
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/bin/Debug/net6.0/Exemplo.runtimeconfig.json
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/bin/Debug/net6.0/Exemplo.dll
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/bin/Debug/net6.0/ref/Exemplo.dll
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/bin/Debug/net6.0/Exemplo.pdb
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/obj/Debug/net6.0/Exemplo.dll
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/obj/Debug/net6.0/ref/Exemplo.dll
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/obj/Debug/net6.0/Exemplo.pdb
+/home/paul/Documents/Inf-0991/Projeto1/Exemplo/obj/Debug/net6.0/Exemplo.genruntimeconfig.cache
