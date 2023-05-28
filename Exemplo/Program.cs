@@ -1,5 +1,5 @@
 ﻿using System;
- 
+// Alteração realizada por Rafael Brunello
 //namespace CSharpTutA.cs
 namespace Exemplo;
 
