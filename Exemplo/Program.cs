@@ -27,7 +27,7 @@ class Program
     {
         Warrior maximus = new Warrior("Maverick", 1000, 120, 40); //Alteração realizara por phidalgo
         Warrior bob = new Warrior("Iceman", 1000, 120, 40); //Alteração realizada por phidalgo
-
+        // Outra alteração realizada por Paul hidalgo  
         Battle.StartFight(maximus, bob);
 
         Console.ReadLine();
